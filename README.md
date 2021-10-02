@@ -1,11 +1,13 @@
 # Community Leaderboard
 
+A community fitness leaderboard to help people keep a track of their physical activities and involve in friendly competition with their peers.
+
 # Features
 
-- [] Maintain Global Leaderboard
-- [] Add friends
-- [] Maintain friends only leaderboard
-- [] Longest streak
+- [ ] Maintain Global Leaderboard
+- [ ] Add friends
+- [ ] Maintain friends only leaderboard
+- [ ] Longest streak
 
 ## Maintainers
 - [Sanjana Chakravarty](https://github.com/Sanjana00)
