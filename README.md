@@ -1,7 +1,16 @@
-# Project Name
+# Community Leaderboard
+
+# Features
+
+- [] Maintain Global Leaderboard
+- [] Add friends
+- [] Maintain friends only leaderboard
+- [] Longest streak
 
 ## Maintainers
-
+- [Sanjana Chakravarty](https://github.com/Sanjana00)
+- [Rahul Halder](https://github.com/hrahul2605)
+  
 ## Contributing
 
 Thank you for your interest in contributing to our repo! Before making any PR, we strongly suggest you go through our [contribution guidelines](./CONTIRBUTING.md) to see how you can contribute to this project.
