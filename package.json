@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NeerajHazarika/community-leaderboard/issues"
   },
-  "homepage": "https://github.com/NeerajHazarika/community-leaderboard#readme"
+  "homepage": "https://github.com/NeerajHazarika/community-leaderboard#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
