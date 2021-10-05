@@ -4,8 +4,8 @@
   "description": "A community fitness leaderboard to help people keep a track of their physical activities and involve in friendly competition with their peers.",
   "main": "index.js",
   "scripts": {
-    "start":"node index.js",
-    "dev":"nodemon index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
