@@ -1,0 +1,19 @@
+{
+  "name": "community-leaderboard",
+  "version": "1.0.0",
+  "description": "A community fitness leaderboard to help people keep a track of their physical activities and involve in friendly competition with their peers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeerajHazarika/community-leaderboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeerajHazarika/community-leaderboard/issues"
+  },
+  "homepage": "https://github.com/NeerajHazarika/community-leaderboard#readme"
+}
