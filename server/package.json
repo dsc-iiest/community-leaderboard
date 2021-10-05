@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NeerajHazarika/community-leaderboard.git"
+    "url": "git+https://github.com/dsc-iiest/community-leaderboard"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NeerajHazarika/community-leaderboard/issues"
+    "url": "https://github.com/dsc-iiest/community-leaderboard"
   },
   "homepage": "https://github.com/NeerajHazarika/community-leaderboard#readme",
   "dependencies": {
