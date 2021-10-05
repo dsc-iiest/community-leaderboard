@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A community fitness leaderboard to help people keep a track of their physical activities and involve in friendly competition with their peers.",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
