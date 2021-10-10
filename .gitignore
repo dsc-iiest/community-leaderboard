@@ -1,2 +1,3 @@
 # Dependency directories
 ./server/node_modules
+./client/node_modules
